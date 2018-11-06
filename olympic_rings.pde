@@ -1,7 +1,7 @@
 size(650,400);
 background(255);
 strokeWeight(15);
-nofill();
+noFill();
 stroke(255,0,0);
 ellipse(500,100,150,150);
 stroke(0,255,0);
